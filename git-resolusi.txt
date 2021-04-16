@@ -2,3 +2,8 @@ Pemograman Web
 -bisa HTML
 -bisa CSS
 -bisa JavaScript
+
+bahasa pemograman
+-bisa Python
+-bisa C++
+-bisa C#
