@@ -5,5 +5,9 @@ Pemograman Web
 
 bahasa pemograman
 -bisa Python
--bisa C++
+-bisa Pascal
 -bisa C#
+belajar library
+
+
+test debuging
